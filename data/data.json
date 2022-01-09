@@ -1,0 +1,19 @@
+[
+    {"precio": 1000, "tipo": "Comun", "platea": "Planta baja", "vision": "Baja", "numero": "4"},
+    {"precio": 1000, "tipo": "Comun", "platea": "Planta baja", "vision": "Baja", "numero": "6"},
+    {"precio": 1000, "tipo": "Comun", "platea": "Planta baja", "vision": "Baja", "numero": "8"},
+    {"precio": 1000, "tipo": "Comun", "platea": "Planta baja", "vision": "Baja", "numero": "10"},
+    {"precio": 1000, "tipo": "Comun", "platea": "Planta baja", "vision": "Baja", "numero": "12"},
+    {"precio": 1000, "tipo": "Comun", "platea": "Planta baja", "vision": "Baja", "numero": "15"},
+    {"precio": 3000, "tipo": "Premium", "platea": "Lateral izquierda", "vision": "Media", "numero": "22"},
+    {"precio": 3000, "tipo": "Premium", "platea": "Lateral izquierda", "vision": "Media", "numero": "34"},
+    {"precio": 3000, "tipo": "Premium", "platea": "Lateral izquierda", "vision": "Media", "numero": "37"},
+    {"precio": 3000, "tipo": "Premium", "platea": "Lateral derecha", "vision": "Media", "numero": "44"},
+    {"precio": 3000, "tipo": "Premium", "platea": "Lateral derecha", "vision": "Media", "numero": "56"},
+    {"precio": 3000, "tipo": "Premium", "platea": "Lateral derecha", "vision": "Media", "numero": "67"},
+    {"precio": 6000, "tipo": "VIP", "platea": "Planta alta", "vision": "Alta", "numero": "73"},
+    {"precio": 6000, "tipo": "VIP", "platea": "Planta alta", "vision": "Alta", "numero": "84"},
+    {"precio": 6000, "tipo": "VIP", "platea": "Planta alta", "vision": "Alta", "numero": "88"},
+    {"precio": 6000, "tipo": "VIP", "platea": "Planta alta", "vision": "Alta", "numero": "94"},
+    {"precio": 6000, "tipo": "VIP", "platea": "Planta alta", "vision": "Alta", "numero": "96"}
+]

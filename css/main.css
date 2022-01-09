@@ -1,0 +1,116 @@
+html {
+    font-family: 'Urbanist', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 200;
+    font-size: 3em;
+    margin: 0;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+#layoutButacas .divButacas {
+    text-align: center;
+    border: solid 1px rgb(138, 138, 138);
+    border-radius: 10px;
+    width: 30vw;
+    background-color: #e3fadc;
+    transition: all 0.5s ease-in-out;
+}
+
+#layoutButacas .divButacas:hover {
+    transform: scale(1.1)
+}
+
+
+#layoutButacas {
+    display: grid;
+    grid-gap: 2px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+}
+
+#filtros {
+    padding-bottom: 20px;
+}
+
+button {
+    transition: all 0.5s ease-out;
+    background-color: #82defa;
+    border: 0px;
+    border-radius: 20px;
+}
+
+footer button {
+    margin: 10px;
+}
+
+button:hover {
+    background-color: #065f19;
+    color: white;
+    transform: scale(1.2)
+}
+
+a {
+    font-size: 1.4em;
+    font-weight: 400;
+    padding: 3px;
+    margin: 5px;
+    color: #160625;
+    background-color: #f0f0f0;
+    text-decoration: none;
+    border-radius: 13px;
+    border-bottom: solid 2px #615d5d;
+    transition: all 0.3s ease-in-out; 
+}
+
+a:hover {
+    background-color: #82defa;
+    color: white; 
+}
+
+#compradas {
+    display: flex;
+    justify-content: space-around;
+}
+
+#compradas div {
+    border: solid 1px rgb(138, 138, 138);
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+.center {
+    width: 60%;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #e3fadc;
+}
+
+.hideform {
+    display: none;
+}
+
+#end {
+    transition: all 0.5s ease-out;
+    background-color: #82defa;
+    border: 0px;
+    border-radius: 20px;
+}
+
+#end:hover {
+    background-color: #065f19;
+    color: white;
+    transform: scale(1.2)
+}
